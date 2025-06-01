@@ -46,7 +46,7 @@ The `IMDb_Dataset.csv` includes:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/imdb-neo4j-recommender.git
+git clone https://github.com/vekariyaharsh/imdb-neo4j-recommender.git
 cd imdb-neo4j-recommender
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
